@@ -344,7 +344,7 @@
       "key": "zhizhunzibo",
       "name": "直播组",
       "type": 1,
-      "api": "https://cdn.jsdelivr.net/gh/chen-tech-learner/clh3@main/zizhun.m3u",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh3/main/zizhun.m3u",
       "searchable": 0,
       "filterable": 0,
       "playerType": 1
