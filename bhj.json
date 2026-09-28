@@ -345,7 +345,8 @@
       "name": "直播组",
       "type": 1,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh3/main/zizhun.m3u",
-      "searchable": 0,
+	  "ua": "Mozilla/5.0 (Android; TV; rv:102.0) Gecko/102.0 Firefox/102.0",
+	  "searchable": 0,
       "filterable": 0,
       "playerType": 1
     },
@@ -354,7 +355,8 @@
       "name": "直播1组",
       "type": 1,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/tianze889/dstvupn/main/tvupan.txt",
-      "searchable": 0,
+      "ua": "Mozilla/5.0 (Android; TV; rv:102.0) Gecko/102.0 Firefox/102.0",   
+	  "searchable": 0,
       "filterable": 0,
       "playerType": 1
     }
