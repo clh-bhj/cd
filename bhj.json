@@ -1,0 +1,12 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ansun1714/tvbox/main/my-private-api.json",
+      "name": "自动更新仓库链接"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ge6bu6/1/main/3.txt",
+      "name": "海豚源仓库"
+    }
+  ]
+}
