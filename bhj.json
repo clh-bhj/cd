@@ -40,20 +40,6 @@
    "api": "https://api.douapi.cc/api.php/provide/vod/",
    "changeable": 1
   },
- 
-  {
-   "key": "laosebi",
-   "name": "✨全网｜影视合集✨1",
-   "type": 1,
-   "api": "https://apilsbzy2.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.6
-   }
-  },
-
   {
    "key": "ddapi",
    "name": "✨全网｜影视合集✨4",
