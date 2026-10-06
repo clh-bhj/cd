@@ -1472,7 +1472,6 @@ GRTN生活频道台,http://mg.hmysapp.cn:177/gdtv.php?id=102
 汕头经济生活,http://mg.hmysapp.cn:177/广东/汕头经济生活.php?id=301
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-
 🇨🇳🇨🇳历届春晚🇨🇳🇨🇳,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -1745,7 +1744,6 @@ CETV2,http://14.155.143.6:5010/923287211
 CETV4,http://14.155.143.6:5010/923287339
 山东教育,http://14.155.143.6:5010/609154353
 熊猫频道01高清,http://14.155.143.6:5010/609158151
-
 公视高清,http://211.72.174.95:8116/0.ts
 民视高清,http://211.72.174.95:8115/0.ts
 台视高清,http://211.72.174.95:8112/0.ts
@@ -1805,16 +1803,13 @@ CGTN,http://222.213.105.65:7788/609017205
 中国农林卫视,http://222.213.105.65:7788/956904896
 兵团卫视,http://222.213.105.65:7788/956923145
 宁夏卫视,http://222.213.105.65:7788/738910535
-
 三沙卫视,http://222.213.105.65:7788/961023778
 黑龙江卫视,http://222.213.105.65:7788/738906901
 上海新闻综合,http://222.213.105.65:7788/651632657
-
 上海第一财经,http://222.213.105.65:7788/608780988
 南京新闻综合频道,http://222.213.105.65:7788/838109047
 南京教科频道,http://222.213.105.65:7788/838153729
 南京十八频道,http://222.213.105.65:7788/838151753
-
 江苏城市频道,http://222.213.105.65:7788/626064714
 江苏国际,http://222.213.105.65:7788/626064674
 江苏教育,http://222.213.105.65:7788/628008321
@@ -1855,16 +1850,13 @@ CGTN,http://222.213.105.65:7788/609017205
 经典香港电影,http://222.213.105.65:7788/625703337
 新片放映厅,http://222.213.105.65:7788/619495952
 CHC影迷电影,http://222.213.105.65:7788/952383261
-
 和美乡途轮播台,http://222.213.105.65:7788/713591450
 南方影视,http://222.213.105.65:7788/614961829
-
 CETV1,http://222.213.105.65:7788/923287154
 CETV2,http://222.213.105.65:7788/923287211
 CETV4,http://222.213.105.65:7788/923287339
 山东教育,http://222.213.105.65:7788/609154353
 熊猫频道01高清,http://222.213.105.65:7788/609158151
-
 最强综艺趴,http://222.213.105.65:7788/629942228
 嘉佳卡通,http://222.213.105.65:7788/614952364
 经典动画大集合,http://222.213.105.65:7788/629942219
@@ -2191,7 +2183,6 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 我爱男保姆播,http://cfss.cc/cdn/huya/29581262.flv
 科幻梦工场播,http://cfss.cc/cdn/huya/15152155.flv
 脱口秀大会伍,http://cfss.cc/cdn/huya/11352875.flv
-
 探案剧专区,http://cfss.cc/cdn/huya/20969144.flv
 都市剧专区,http://cfss.cc/cdn/huya/29982666.flv
 刑侦剧专区,http://cfss.cc/cdn/huya/20969130.flv
@@ -2878,95 +2869,28 @@ Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 今天你喂狗了吗,https://live.ottiptv.cc/yy/1352300646
 僵尸道长,https://live.ottiptv.cc/yy/1355171231
 少年歌行,https://live.ottiptv.cc/yy/1450556636
-
 YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144
 电影,https://live.ottiptv.cc/yy/37454459
 🇨🇳🇨🇳综合频道🇨🇳🇨🇳,#genre#
-
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-
-
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-
 林正英系列,http://107.150.60.122/live/lblzy.m3u8
-
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-
 羽毛球🏸,http://file.dokor.cn:35455/huya/30806115
-
 乒乓球🏓,http://file.dokor.cn:35455/huya/30806115
-
 斯洛克,http://file.dokor.cn:35455/huya/880214
-
 赛车🏎️,http://file.dokor.cn:35455/huya/18152482
-
 摔跤🤼‍♂️,http://file.dokor.cn:35455/huya/20072812
-
 格斗,http://file.dokor.cn:35455/huya/20072796
-
 拳击,http://file.dokor.cn:35455/huya/20072837
-
 机车🏍️,http://file.dokor.cn:35455/huya/19197407
 越野车,http://file.dokor.cn:35455/huya/19197407
-
 篮球vs3,http://file.dokor.cn:35455/huya/30847442
-
 飞盘🥏,http://file.dokor.cn:35455/huya/30689549
-
-🇨🇳🇨🇳咪咕体育🇨🇳🇨🇳,#genre#
-
-睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-睛彩篮球「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-咪咕直播 𝟜𝕂-𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-咪咕直播 𝟜𝕂-𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-咪咕直播 𝟜「移动」,http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-咪咕直播 𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-咪咕直播 𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-咪咕直播 𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-咪咕直播 𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-咪咕直播 𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-
-
 🇨🇳🇨🇳广东频道🇨🇳🇨🇳,#genre#
 广东卫视台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 广东珠江台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=44
@@ -3078,7 +3002,6 @@ GRTN生活频道台,http://mg.hmysapp.cn:177/gdtv.php?id=102
 汕头经济生活,http://mg.hmysapp.cn:177/广东/汕头经济生活.php?id=301
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-
 🇨🇳🇨🇳历届春晚🇨🇳🇨🇳,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
