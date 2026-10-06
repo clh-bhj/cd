@@ -342,7 +342,7 @@ CETV4,http://222.213.105.65:7788/923287339
 新动力量创一流,http://222.213.105.65:7788/713589837
 中华特产,http://222.213.105.65:7788/959986618
 环球旅游,http://222.213.105.65:7788/958475356
-🇨🇳🇨🇳梨园频道,http://222.213.105.65:7788/961930369
+梨园频道,http://222.213.105.65:7788/961930369
 学习,https://cdn13bak.bookln.cn/aj/18237995/aj/app/forever/product/bizboot/default/faeefb28-5060-43b2-9ac4-97b50ed46873/itm_248601476_374d015c8b99-443d-8a73-878d523e3ff4.m3u8
 🇨🇳🇨🇳地方台🇨🇳🇨🇳,#genre#
 陕西新闻,http://gxlive.snrtv.com/sx1-SD.m3u8
@@ -2160,7 +2160,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 合家欢,http://cfss.cc/cdn/huya/11352877.flv
 学不会系列,http://cfss.cc/cdn/huya/11352945.flv
 误杀3,http://cfss.cc/cdn/huya/880219.flv
-🇨🇳🇨🇳电视剧场🛵,#genre#
+🇨🇳🇨🇳电视剧场🇨🇳🇨🇳,#genre#
 雪豹电视轮播,http://cfss.cc/cdn/huya/29580970.flv
 寻秦记播频道,http://cfss.cc/cdn/huya/29465848.flv
 西游记播频道,http://cfss.cc/cdn/huya/29465859.flv
@@ -2209,7 +2209,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 搞笑剧专区,http://cfss.cc/cdn/huya/21059634.flv
 武侠剧专区,http://cfss.cc/cdn/huya/20985816.flv
 年代剧专区,http://cfss.cc/cdn/huya/20969095.flv
-🇨🇳🇨🇳虎牙一起看,#genre#
+🇨🇳🇨🇳虎牙一起看🇨🇳🇨🇳,#genre#
 我不是药神-他只是想活命,http://nn.7x9d.cn/xz/虎牙.php?id=880261
 成龙经典武打动作片,http://nn.7x9d.cn/xz/虎牙.php?id=11342386
 历年贺岁档 笑就完事儿了,http://nn.7x9d.cn/xz/虎牙.php?id=11601986
@@ -2447,7 +2447,7 @@ laughing哥很拉风,http://nn.7x9d.cn/xz/虎牙.php?id=20985845
 告密者 秘密让人变得更危险,http://nn.7x9d.cn/xz/虎牙.php?id=21059620
 同题材的巅峰之作 十三宗ming案,http://nn.7x9d.cn/xz/虎牙.php?id=21028268
 万人迷+结婚狂，初代涩女郎,http://nn.7x9d.cn/xz/虎牙.php?id=26355794
-🇨🇳🇨🇳经典轮播,#genre#
+🇨🇳🇨🇳经典轮播🇨🇳🇨🇳,#genre#
 三国演义,http://8.155.43.98:35455/huya/11602081
 大宋提刑官,http://8.155.43.98:35455/huya/26355856
 延禧攻略,http://8.155.43.98:35455/huya/26355864
@@ -2881,7 +2881,7 @@ Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 
 YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144
 电影,https://live.ottiptv.cc/yy/37454459
-🇨🇳🇨🇳综合频道🔥,#genre#
+🇨🇳🇨🇳综合频道🇨🇳🇨🇳,#genre#
 
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 
@@ -2921,7 +2921,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 
 飞盘🥏,http://file.dokor.cn:35455/huya/30689549
 
-🇨🇳🇨🇳咪咕体育,#genre#
+🇨🇳🇨🇳咪咕体育🇨🇳🇨🇳,#genre#
 
 睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
@@ -2967,7 +2967,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 
-🇨🇳🇨🇳广东频道,#genre#
+🇨🇳🇨🇳广东频道🇨🇳🇨🇳,#genre#
 广东卫视台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 广东珠江台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=44
 广东新闻台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=45
@@ -3079,7 +3079,7 @@ GRTN生活频道台,http://mg.hmysapp.cn:177/gdtv.php?id=102
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 
-🇨🇳🇨🇳历届春晚,#genre#
+🇨🇳🇨🇳历届春晚🇨🇳🇨🇳,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
