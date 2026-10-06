@@ -2110,7 +2110,7 @@ TVB Plus(WebVTT字幕),http://cdn10.123.rr.kg/163189/tvbp/
 龙华卡通,https://cdn.qd.je/163189/lhkt
 金光布袋戏,https://cdn.qd.je/163189/jgbdx
 亚洲武侠,https://cdn.qd.je/163189/yzwx
-🇨🇳🇨🇳明星剧场🚖,#genre#
+🇨🇳🇨🇳明星剧场🇨🇳🇨🇳,#genre#
 成龙,http://cfss.cc/cdn/huya/11342386.flv
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
 沈腾,http://cfss.cc/cdn/huya/11601968.flv
