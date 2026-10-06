@@ -1,4 +1,4 @@
-﻿🇨🇳🇨🇳央卫咪咕,#genre#
+﻿🇨🇳🇨🇳央卫咪咕🇨🇳🇨🇳,#genre#
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 CCTV1综合,http://219.140.6.156:1234/608807420
 CCTV2财经,http://219.140.6.156:1234/631780532
@@ -344,7 +344,7 @@ CETV4,http://222.213.105.65:7788/923287339
 环球旅游,http://222.213.105.65:7788/958475356
 🇨🇳🇨🇳梨园频道,http://222.213.105.65:7788/961930369
 学习,https://cdn13bak.bookln.cn/aj/18237995/aj/app/forever/product/bizboot/default/faeefb28-5060-43b2-9ac4-97b50ed46873/itm_248601476_374d015c8b99-443d-8a73-878d523e3ff4.m3u8
-地方台,#genre#
+🇨🇳🇨🇳地方台🇨🇳🇨🇳,#genre#
 陕西新闻,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市,http://gxlive.snrtv.com/sx2-SD.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
@@ -448,7 +448,7 @@ CETV4,http://222.213.105.65:7788/923287339
 阿拉善新闻,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-🇨🇳🇨🇳港澳频道🦋,#genre#
+🇨🇳🇨🇳港澳频道🇨🇳🇨🇳,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
@@ -583,7 +583,7 @@ TVB Plus(WebVTT字幕),http://cdn10.123.rr.kg/163189/tvbp/
 龙华卡通,https://cdn.qd.je/163189/lhkt
 金光布袋戏,https://cdn.qd.je/163189/jgbdx
 亚洲武侠,https://cdn.qd.je/163189/yzwx
-🇨🇳🇨🇳明星剧场🚖,#genre#
+🇨🇳🇨🇳明星剧场🇨🇳🇨🇳,#genre#
 成龙,http://cfss.cc/cdn/huya/11342386.flv
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
 沈腾,http://cfss.cc/cdn/huya/11601968.flv
@@ -633,7 +633,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 合家欢,http://cfss.cc/cdn/huya/11352877.flv
 学不会系列,http://cfss.cc/cdn/huya/11352945.flv
 误杀3,http://cfss.cc/cdn/huya/880219.flv
-🇨🇳🇨🇳电视剧场🛵,#genre#
+🇨🇳🇨🇳电视剧场🇨🇳🇨🇳,#genre#
 雪豹电视轮播,http://cfss.cc/cdn/huya/29580970.flv
 寻秦记播频道,http://cfss.cc/cdn/huya/29465848.flv
 西游记播频道,http://cfss.cc/cdn/huya/29465859.flv
@@ -681,7 +681,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 搞笑剧专区,http://cfss.cc/cdn/huya/21059634.flv
 武侠剧专区,http://cfss.cc/cdn/huya/20985816.flv
 年代剧专区,http://cfss.cc/cdn/huya/20969095.flv
-🇨🇳🇨🇳虎牙一起看,#genre#
+🇨🇳🇨🇳虎牙一起看🇨🇳🇨🇳,#genre#
 我不是药神-他只是想活命,http://nn.7x9d.cn/xz/虎牙.php?id=880261
 成龙经典武打动作片,http://nn.7x9d.cn/xz/虎牙.php?id=11342386
 历年贺岁档 笑就完事儿了,http://nn.7x9d.cn/xz/虎牙.php?id=11601986
@@ -919,7 +919,7 @@ laughing哥很拉风,http://nn.7x9d.cn/xz/虎牙.php?id=20985845
 告密者 秘密让人变得更危险,http://nn.7x9d.cn/xz/虎牙.php?id=21059620
 同题材的巅峰之作 十三宗ming案,http://nn.7x9d.cn/xz/虎牙.php?id=21028268
 万人迷+结婚狂，初代涩女郎,http://nn.7x9d.cn/xz/虎牙.php?id=26355794
-🇨🇳🇨🇳经典轮播,#genre#
+🇨🇳🇨🇳经典轮播🇨🇳🇨🇳,#genre#
 三国演义,http://8.155.43.98:35455/huya/11602081
 大宋提刑官,http://8.155.43.98:35455/huya/26355856
 延禧攻略,http://8.155.43.98:35455/huya/26355864
@@ -1352,7 +1352,7 @@ Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 少年歌行,https://live.ottiptv.cc/yy/1450556636
 YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144
 电影,https://live.ottiptv.cc/yy/37454459
-🇨🇳🇨🇳综合频道🔥,#genre#
+🇨🇳🇨🇳综合频道🇨🇳🇨🇳,#genre#
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
@@ -1361,7 +1361,7 @@ YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-🇨🇳🇨🇳广东频道,#genre#
+🇨🇳🇨🇳广东频道🇨🇳🇨🇳,#genre#
 广东卫视台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 广东珠江台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=44
 广东新闻台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=45
@@ -1473,7 +1473,7 @@ GRTN生活频道台,http://mg.hmysapp.cn:177/gdtv.php?id=102
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 
-🇨🇳🇨🇳历届春晚,#genre#
+🇨🇳🇨🇳历届春晚🇨🇳🇨🇳,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -1518,7 +1518,7 @@ GRTN生活频道台,http://mg.hmysapp.cn:177/gdtv.php?id=102
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 春晚2026,https://k0ub7yecy34ya5zw2409x8754xa10x3201xx31z.djvod.ndcimgs.com/upic/2026/03/04/11/BMjAyNjAzMDQxMTMzMTNfMTgxNTA2MDY0N18xODk1MTQ3NTE5MjNfMF8z_b_Bd6767bdf1afd5c3455e62657c78ee0df.mp4?tag=1-1788498487-unknown-0-yc9fheafle-a3b03d6358827a35&provider=self&clientCacheKey=3xagivymzad6zzy_b.mp4&di=JAmKVebDwwCJ6uLGrx8L6Q==&bp=10004&x-ks-ptid=189514751923&kwai-not-alloc=self-cdn&kcdntag=p:Guangdong;i:ChinaMobile;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&ocid=100001177&tt=b&ss=vps
-央卫咪咕,#genre#
+🇨🇳🇨🇳央卫咪咕🇨🇳🇨🇳,#genre#
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 CCTV1综合,http://219.140.6.156:1234/608807420
 CCTV2财经,http://219.140.6.156:1234/631780532
@@ -1872,7 +1872,7 @@ CETV4,http://222.213.105.65:7788/923287339
 中华特产,http://222.213.105.65:7788/959986618
 环球旅游,http://222.213.105.65:7788/958475356
 学习,https://cdn13bak.bookln.cn/aj/18237995/aj/app/forever/product/bizboot/default/faeefb28-5060-43b2-9ac4-97b50ed46873/itm_248601476_374d015c8b99-443d-8a73-878d523e3ff4.m3u8
-🇨🇳🇨🇳地方台,#genre#
+🇨🇳🇨🇳地方台🇨🇳🇨🇳,#genre#
 陕西新闻,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市,http://gxlive.snrtv.com/sx2-SD.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
@@ -1975,7 +1975,7 @@ CETV4,http://222.213.105.65:7788/923287339
 阿拉善新闻,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-🦋港澳频道🦋,#genre#
+🇨🇳🇨🇳港澳频道🇨🇳🇨🇳,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
